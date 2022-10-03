@@ -11,7 +11,7 @@ from collections import namedtuple
 import numpy as np
 import random
 import pretty_midi
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 features = namedtuple("features", ["dict", "feat", "infer"])
 rnn_stuff = namedtuple("rnn_stuff", ["init", "out", "state", "logit"])

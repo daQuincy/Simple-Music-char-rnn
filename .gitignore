@@ -1,0 +1,7 @@
+experiments/*/*
+!*.gitkeep
+!experiments/experiment_1/yamaha*
+yamaha/
+yamaha_train.p
+yamaha_test.p
+__pycache__
